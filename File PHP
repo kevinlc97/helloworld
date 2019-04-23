@@ -4,4 +4,5 @@ printf("Bien bien");
 printf("Hi hi");
 printf("Que tal");
 printf("<h1> Hola Mundo</h1>");
+echo "Hola Mundo";
 ?>
