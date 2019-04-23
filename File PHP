@@ -7,4 +7,5 @@ printf("<h1> Hola Mundo</h1>");
 echo "Hola Mundo";
 echo "Que pedo Ronny";
 echo "Que pedo Ronny";
+printf("Ya funciona");
 ?>
