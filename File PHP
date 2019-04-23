@@ -1,3 +1,5 @@
 <?php
 printf("Hola mundo");
+printf("Bien bien");
+printf("Hi hi");
 ?>
